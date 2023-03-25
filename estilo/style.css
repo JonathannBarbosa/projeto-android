@@ -14,7 +14,6 @@
 }
 
 
-
 :root{
   --cor0:#c5ebd6;
   --cor1:#83e1ad;                         
@@ -65,6 +64,7 @@ header > p {
   padding-right: 10px;
   padding-right: 10px;
   text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.534);
+  margin-bottom: 20px;
 }
 
 
@@ -83,7 +83,8 @@ nav > a{
   text-decoration: none;
   font-weight: bold;
   border-radius: 15px;
-  transition-duration: s;
+  transition-duration: 0.55s;
+  font-size: 18px;
 }
 
 nav a:hover{
